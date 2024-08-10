@@ -12,16 +12,16 @@ Check out the live demo [here](https://multi-step-form-five-psi.vercel.app/)
 ## Features
 
 1. **Step-Based Form Navigation**:
-  - The form is split into multiple steps, each requiring different information.
+   - The form is split into multiple steps, each requiring different information.
   
 2. **Data Validation with Zod**:
-  - Validates form data in real-time with error messages for incorrect inputs.
+   - Validates form data in real-time with error messages for incorrect inputs.
   
 3. **Smooth Transitions**:
-  - Animates transitions between form steps using Framer Motion.
+   - Animates transitions between form steps using Framer Motion.
   
-- **State Management with React Hook Form**:
-  - Efficiently handles form state and submission using react-hook-form.
+4. **State Management with React Hook Form**:
+   - Efficiently handles form state and submission using react-hook-form.
 
 ## Technologies Used
 
